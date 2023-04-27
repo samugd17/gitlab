@@ -1,5 +1,7 @@
 # Gitlab
 
+<img src="">
+
 ## ÍNDICE
 [¿Qué son las herramientas CI/DC?](#¿que-son-las-herramientas-ci/dc?)
 [¿Qué es y dentro de que grupo de las herramientas CI/DC está?](#¿que-es-y-dentro-de-que-grupo-de-las-herramientas-ci/dc-esta?)
