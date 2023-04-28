@@ -22,11 +22,11 @@
 
 - [Bibliografía](#bibliografía)
 
-### ¿Qué son las herramientas CI/DC?
+### ¿Qué son las herramientas CI/CD?
 
-Las herramientas CI/CD hacen referencia a un método para distribuir las aplicaciones a los clientes con frecuencia, mediante el uso de la automatización en las etapas del desarrollo de las aplicaciones. Los principales conceptos que se le atribuyen son la Integración Continua (CI) y la Distribución y la Implementación Continuas (CD). 
+Las herramientas CI/CD hacen referencia a un método para distribuir las aplicaciones a los clientes con frecuencia, mediante el uso de la automatización en las etapas del desarrollo de las aplicaciones. Los principales conceptos que se le atribuyen son la Integración Continua (CI) y la Distribución Continua (CD). 
 
-<img src="https://github.com/samugd17/gitlab/blob/gitlab_samuel/img/gitlab_workflow.png">
+<img src="https://github.com/samugd17/gitlab/blob/develop/img/gitlab_workflow.png">
 
 #### Integración Continua (IC)
 La integración continua es una práctica de desarrollo que requiere que los desarrolladores integren su código en un repositorio compartido con el resto de sus compañeros, varias veces al día.
@@ -37,6 +37,7 @@ La IC, está diseñada para soportar muchos cambios pequeños en lugar de pocos 
 
 El objetivo último de la integración continua es entregar un código mejor, más rápido y fácil de mantener. Mediante cambios más pequeños y frecuentes combinados con la automatización, los equipos pueden encontrar y corregir errores más rápidamente y reducir el tiempo dedicado a validar y publicar nuevas actualizaciones.
 
+#### Distribución Continua (CD)
 
 ### ¿Qué es y dentro de que grupo de las herramientas CI/DC esta?
 
@@ -53,5 +54,6 @@ El objetivo último de la integración continua es entregar un código mejor, m�
 
 ### Bibliografía
 https://www.redhat.com/es/topics/devops/what-is-ci-cd
+
 https://unity.com/solutions/devops-lifecycle
 
