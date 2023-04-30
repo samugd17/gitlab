@@ -1,5 +1,8 @@
+<div align="justify">
 
+<div align="center">
 <img src="https://github.com/samugd17/gitlab/blob/gitlab_samuel/img/gitlab-logo-100.png">
+</div>
 
 ## ÍNDICE
 - [¿Qué son las herramientas CI/DC?](#¿que-son-las-herramientas-ci/dc?)
@@ -20,16 +23,18 @@
 
 - [¿Por qué escoger la herramienta frente a otras?](#¿por-que-escoger-la-herramienta-frente-a-otras?)
 
-- [Bibliografía](#bibliografía)
+- [Referencias](#referencias)
 
 ### ¿Qué son las herramientas CI/CD?
 
-Las herramientas CI/CD hacen referencia a un método para distribuir las aplicaciones a los clientes con frecuencia, mediante el uso de la automatización en las etapas del desarrollo de las aplicaciones. Los principales conceptos que se le atribuyen son la Integración Continua (CI) y la Distribución Continua (CD). 
+Las herramientas CI/CD hacen referencia a un método para distribuir las aplicaciones a los clientes con frecuencia, mediante el uso de la automatización en las etapas del desarrollo de las aplicaciones. Los principales conceptos que se le atribuyen son la Integración Continua (CI) y la Distribución e Implementación Continua (CD). 
 
+<div align="center">
 <img src="https://github.com/samugd17/gitlab/blob/develop/img/gitlab_workflow.png">
+</div>
 
 #### Integración Continua (IC)
-La integración continua es una práctica de desarrollo que requiere que los desarrolladores integren su código en un repositorio compartido con el resto de sus compañeros, varias veces al día.
+La Integración Continua es una práctica de desarrollo que requiere que los desarrolladores integren su código en un repositorio compartido con el resto de sus compañeros, varias veces al día.
 
 Cada rama, es verificada automáticamente por un compilador, permitiendo al equipo de programadores detectar los diferentes problemas que puedan existir y solucionarlos lo antes posible, asegurando de esta forma que la rama "main", siempre se encuentre lo más limpia y viable posible para su posterior desarrollo.
 
@@ -37,7 +42,18 @@ La IC, está diseñada para soportar muchos cambios pequeños en lugar de pocos 
 
 El objetivo último de la integración continua es entregar un código mejor, más rápido y fácil de mantener. Mediante cambios más pequeños y frecuentes combinados con la automatización, los equipos pueden encontrar y corregir errores más rápidamente y reducir el tiempo dedicado a validar y publicar nuevas actualizaciones.
 
-#### Distribución Continua (CD)
+#### Distribución e Implementación Continua (CD)
+La Distribución e Implementación Continua es la etapa que procede a la Integración Continua. Sin embargo, dentro de ésta, se pueden diferenciar dos conceptos en los que, aunque a menudo se confundan y se usen indistintivamente, ya que ambos se refieren a la automatización de las etapas posteriores del proceso, se usan por separado para explicar hasta dónde llega la automatización.
+
+- __Distribución Continua__
+La Distribución Continua se refiere a que los cambios que implementa un desarrollador en una aplicación se someten a pruebas automáticas de errores y se cargan en un repositorio (como GitHub), para que luego el equipo de operaciones pueda implementarlos en un entorno de producción en vivo. Es una solución al problema de la poca supervisión y comunicación entre los equipos comerciales y de desarrollo. Con ese fin, el propósito de la distribución continua es garantizar que la implementación del código nuevo se lleve a cabo con el mínimo esfuerzo.
+
+- __Implementación Continua__ 
+La implementación continua hace referencia al lanzamiento automático de los cambios que implementa el desarrollador desde el repositorio hasta la producción, para ponerlos a disposición de los clientes. De esta forma, no se sobrecargan a los equipos de operaciones con procesos manuales que retrasan la distribución de las aplicaciones. Con este tipo de implementación, se aprovechan los beneficios de la distribución continua y se automatiza la siguiente etapa del proceso.
+
+<div align="center">
+<img src="https://github.com/samugd17/gitlab/blob/develop/img/ci-cd-flow-desktop.png">
+</div>
 
 ### ¿Qué es y dentro de que grupo de las herramientas CI/DC esta?
 
@@ -52,8 +68,9 @@ El objetivo último de la integración continua es entregar un código mejor, m�
 ### Comparativa con otras herramientas
 ### ¿Por qué escoger la herramienta frente a otras?
 
-### Bibliografía
+### Referencias
 https://www.redhat.com/es/topics/devops/what-is-ci-cd
 
 https://unity.com/solutions/devops-lifecycle
 
+</div>
