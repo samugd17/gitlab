@@ -64,10 +64,10 @@ La compañía, GitLab Inc. cuenta con un equipo de 1309 miembros. Es usado por o
 ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (Dev) con las operaciones de tecnología de la información(Ops). Estas operaciones se refieren a las actividades y procesos relacionados con la gestión y el mantenimiento de los sistemas de tecnología de la información en una organización: Gestión de infraestructura, soporte técnico, monitoreo y seguridad..._
 
 
-<div style="display:flex" max-height="20px">
+<div style="display:flex;flex-direction:row">
 
 
-<div><img src="/img/YouTube-Icon-Full-Color-Logo.wine.svg" width="25px" height="25px"></div><a href="https://youtu.be/l5705U8s_nQ?t=369">Profundiza un poco más en Gitlab CI/CD</a>
+<div><img src="/img/YouTube-Icon-Full-Color-Logo.wine.svg" width="25px" height="25px"></div><div><a href="https://youtu.be/l5705U8s_nQ?t=369">Profundiza un poco más en Gitlab CI/CD</a></div>
 
 
 </div>
