@@ -66,11 +66,11 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
 
 <div style="display:flex">
 
-<div class="img" style="float:left">
+<div class="img">
 <img src="/img/YouTube-Icon-Full-Color-Logo.wine.svg" width="25px" height="25px">
 </div>
 
-<div class ="link" style="float:left">
+<div class ="link">
 <a href="https://youtu.be/l5705U8s_nQ?t=369">Profundiza un poco más en Gitlab CI/CD</a>
 </div>
 
