@@ -65,8 +65,6 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
 
 :sound: <a href="https://youtu.be/l5705U8s_nQ?t=369">Profundiza un poco más en Gitlab CI/CD</a>
 
-<br>
-
 ## ¿Qué ofrece?
 
 - Administración, creación y conexión de repositorios con diferentes aplicaciones e integración con ellas, ofreciendo un ambiente y una plataforma en la que se pueden realizar las diferentes etapas de su ciclo de vida de desarrollo de software (SDLC) y DevOps. 
