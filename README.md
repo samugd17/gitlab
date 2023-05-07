@@ -1,7 +1,7 @@
 <div align="justify">
 
 <div align="center">
-<img src="//img/gitlab-logo-100.png">
+<img src="https://github.com/samugd17/gitlab/blob/feature_2/img/gitlab-logo-100.png">
 </div>
 
 ## ÍNDICE
@@ -50,7 +50,7 @@ La Implementación Continua hace referencia al lanzamiento automático de los ca
 
     __Objetivo:__ No sobrecargar a los equipos de operaciones con procesos manuales que retrasan la distribución de las aplicaciones y aprovechar los beneficios de la distribución continua automatizando la siguiente etapa del proceso.
 <div align="center">
-<img src="//img/gitlab_workflow.png">
+<img src="https://github.com/samugd17/gitlab/blob/feature_2/img/gitlab_workflow.png">
 </div>
 
 ### ¿Qué es y dentro de que grupo de las herramientas CI/CD esta?
@@ -67,7 +67,7 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
 <div>
 
 <div class="img" style="float:left">
-<img src="//img/YouTube-Icon-Full-Color-Logo.wine.svg" width="25px" height="25px">
+<img src="https://github.com/samugd17/gitlab/blob/feature_2/img/YouTube-Icon-Full-Color-Logo.wine.svg" width="25px" height="25px">
 </div>
 
 <div class ="link" style="float:left">
