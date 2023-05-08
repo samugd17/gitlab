@@ -71,6 +71,12 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
 - Alojamiento de wikis
 - Sistema de seguimiento y detección de errores
 
+<!-- It has git repositories, issue tracking, CI/CD, Wiki, container repository, and more built in in one application, Some people take issue with this because it is heavyweight. Personally I like that I have one tool that I can get support for and that everything is integrated together well. -->
+
+<!-- For me one of the most important features of GitLab is that I can self host it. Self hosting means that it can work on networks that are disconnected from the internet. If setting up your own infrastructure then it is nice to have a smaller set of tools to have to mess with.  -->
+
+<!-- I like being able to adopt a git flow workflow, open merge requests in GitLab and have a CI/CD pipeline run against the merge request before accepting it.  -->
+
 ## Plan de precios
 
 ## Ejemplo de integración con repositorios de código
@@ -78,7 +84,11 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
 ## Ejemplo de documentación de proyectos
 
 ## Otras herramientas con las que se integra
+
 ## Comparativa con otras herramientas
+
+
+
 ## ¿Por qué escoger la herramienta frente a otras?
 
 ## Referencias
