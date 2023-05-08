@@ -5,11 +5,11 @@
 </div>
 
 ## ÍNDICE
-- [¿Qué son las herramientas CI/DC?](#¿qué-son-las-herramientas-ci/cd?)
+- [¿Qué son las herramientas CI/DC?](#qué-son-las-herramientas-cicd)
 
-- [¿Qué es y dentro de que grupo de las herramientas CI/DC está?](#¿qué-es-y-dentro-de-que-grupo-de-las-herramientas-ci/cd-está?)
+- [¿Qué es y dentro de que grupo de las herramientas CI/DC está?](#qué-es-y-dentro-de-que-grupo-de-las-herramientas-cicd-está)
 
-- [¿Qué ofrece?](#¿qué-ofrece?)
+- [¿Qué ofrece?](#qué-ofrece)
 
 - [Plan de precios.](#plan-de-precios)
 
@@ -21,11 +21,11 @@
 
 - [Comparativa con otras herramientas](#comparativa-con-otras-herramientas)
 
-- [¿Por qué escoger la herramienta frente a otras?](#¿por-qué-escoger-la-herramienta-frente-a-otras?)
+- [¿Por qué escoger la herramienta frente a otras?](#por-qué-escoger-la-herramienta-frente-a-otras)
 
 - [Referencias](#referencias)
 
-## ¿Qué son las herramientas CI/CD?
+## Qué son las herramientas CI/CD
 
 Las herramientas CI/CD hacen referencia a un método para distribuir las aplicaciones a los clientes con frecuencia, mediante el uso de la automatización en las etapas del desarrollo de las aplicaciones. Los principales conceptos que se le atribuyen son la Integración Continua (CI) y la Distribución e Implementación Continua (CD). 
 
@@ -53,7 +53,7 @@ La Implementación Continua hace referencia al lanzamiento automático de los ca
 <img src="https://github.com/samugd17/gitlab/blob/feature_2/img/gitlab_workflow.png">
 </div>
 
-## ¿Qué es y dentro de que grupo de las herramientas CI/CD está?
+## Qué es y dentro de que grupo de las herramientas CI/CD está
 Gitlab es un servicio web de forja, control de versiones y ___DevOps*___ basado en Git y publicado bajo una licencia de código abierto. Es una herramienta que se encuentra en el grupo de herramientas CI/CD, lo que significa que ofrece características tanto de Integración Continua (CI) como de Despliegue Continuo (CD). Permite automatizar y orquestar el proceso de desarrollo, pruebas y despliegue de software, brindando una solución integral para respaldar las prácticas ágiles de desarrollo y las metodologías de DevOps.
 
 Fue escrito en 2011 por los programadores ucranianos Dmitriy Zaporozhets y Valery Sizov en el lenguaje de programación Ruby3​ y Go, inicialmente como una solución de gestión de código fuente para colaborar con su equipo en el desarrollo de software. Luego evolucionó a una solución integrada que cubre el ciclo de vida del desarrollo de software, y luego a todo el ciclo de vida de DevOps. La arquitectura tecnológica actual incluye Go, Ruby on Rails y Vue.js.
@@ -65,7 +65,7 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
 
 :sound: <a href="https://youtu.be/l5705U8s_nQ?t=369">Profundiza un poco más en Gitlab CI/CD</a>
 
-## ¿Qué ofrece?
+## Qué ofrece
 
 - Administración, creación y conexión de repositorios con diferentes aplicaciones e integración con ellas, ofreciendo un ambiente y una plataforma en la que se pueden realizar las diferentes etapas de su ciclo de vida de desarrollo de software (SDLC) y DevOps. 
 - Alojamiento de wikis
@@ -79,7 +79,7 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
 
 ## Otras herramientas con las que se integra
 ## Comparativa con otras herramientas
-## ¿Por qué escoger la herramienta frente a otras?
+## Por qué escoger la herramienta frente a otras
 
 ## Referencias
 https://www.redhat.com/es/topics/devops/what-is-ci-cd
