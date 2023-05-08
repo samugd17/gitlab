@@ -77,6 +77,34 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
 
 <!-- I like being able to adopt a git flow workflow, open merge requests in GitLab and have a CI/CD pipeline run against the merge request before accepting it.  -->
 
+<!-- You can self host gitlab community for free which makes a difference to organizations that lack budgets  -->
+
+<!-- It's probably minor but in gitlab you can create a new branch based on an issue. The UI has the option to do that and it is a nice way to connect an issue with a branch and a pull request. Github doesn't have it but it is heavily requested -->
+
+
+<!-- free private package repository per repo (pypi, npm and others)
+
+free docker registry per repo
+
+kubernetes cluster integration with a lot of functionality built in (eg preview apps)
+
+is open source and you can host your own instance for free -->
+
+
+<!-- Lets put it this way gitlab has everything that github has and alot more. I have been using it for years at work. Its a complete solution
+
+    You get git for version control
+
+    An amazing CI/CD solution (so dont need to setup jenkins etc)
+
+    A container Registry ( docker registry is not needed)
+
+    Alot of features like multi project pipelines etc
+
+    Self hosted so your code remains under your control These are some of the thing companies really value, and of course for individual users it offer same features -->
+
+
+
 ## Plan de precios
 
 ## Ejemplo de integración con repositorios de código
