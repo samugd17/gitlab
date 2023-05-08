@@ -87,6 +87,21 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
 
 ## Comparativa con otras herramientas
 
+ <!-- One of the worst parts of Jenkins for me is also it's main draw... There are plugins for EVERYTHING but they are not guaranteed to be maintained. I know that there is potentially the ability to pay for a commercial Cloudbees support potentially but relying on plugins that may or may not be supported and that may or may not break on an update makes Jenkins a pain sometimes. Also the other issue that I have with it is that so much is done through the UI. I am moving more and more towards tools where everything is in revision control because it is easier to maintain and easier to branch when needed.
+
+In terms of a long term strategy I recommend the following:
+
+    Pick tools that have been around for a while and avoid switching tools just because it is trendy. I know tools like GitLab and Artifactory are going to be around for a while.
+
+    Avoid putting too much logic in the CI/CD tool. Rely on scripts where possible because this will make it easier to change CI/CD tools if necessary.
+
+    CI/CD tools with native container support are the way to go because containers are here to stay. You want your build environments containerized and versioned.
+
+    Automate everything. Minimize manual tasks as much as humanely possible. The more manual steps you have the more that can go wrong.
+
+    Embrace everything as code and store it all in revision control. You do not want hand crafted servers or things built by hand in the software tool chain. Ideally in my mind everything should be able to be rebuilt from code from the ground up in an automated way. This is important if something foundational to the tech stack needs to change.
+
+    Have your own artifact managers that proxy the public artifact managers. IE don't use NPM or Docker Hub directly. Use something like Artifactory or Nexus to proxy it. -->
 
 
 ## ¿Por qué escoger la herramienta frente a otras?
