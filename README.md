@@ -140,3 +140,25 @@ https://www.redhat.com/es/topics/devops/what-is-ci-cd
 https://docs.gitlab.com/
 
 </div>
+
+
+<!-- 
+Importar directamente de otra herramienta
+
+Autoriza automaticamente con github si tienes la sesion iniciada 
+
+Importar proyectos propios, colaborativos y de organización
+
+Import issue and pull request events
+
+For example, opened or closed, renamed, and labeled or unlabeled. Time required to import these events depends on how many issues or pull requests your project has.
+Use alternative comments import method
+
+The default method can skip some comments in large projects because of limitations of the GitHub API.
+Import Markdown attachments (links)
+
+Import Markdown attachments (links) from repository comments, release posts, issue descriptions, and pull request descriptions. These can include images, text, or binary attachments. If not imported, links in Markdown to attachments break after you remove the attachments from GitHub. 
+
+
+-->
+
