@@ -86,4 +86,6 @@ https://www.redhat.com/es/topics/devops/what-is-ci-cd
 
 https://docs.gitlab.com/
 
+https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow#browse-a-repository-without-cloning
+
 </div>
