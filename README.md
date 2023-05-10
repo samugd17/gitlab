@@ -151,6 +151,8 @@ Importar proyectos propios, colaborativos y de organización
 
 División por grupos o usuario
 
+Crear etiquetas de proyecto
+
 Import issue and pull request events
 
 For example, opened or closed, renamed, and labeled or unlabeled. Time required to import these events depends on how many issues or pull requests your project has.
