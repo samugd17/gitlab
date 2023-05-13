@@ -107,6 +107,16 @@ is open source and you can host your own instance for free -->
 
 ## Plan de precios
 
+![<>](1_img/precios.png)
+
+### Extras
+
+![<>](1_img/addons.png)
+
+### Comparativa
+
+![<>](1_img/comparativa_precios.png)
+
 ## Ejemplo de integración con repositorios de código
 
 ## Ejemplo de documentación de proyectos
