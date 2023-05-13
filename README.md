@@ -109,6 +109,12 @@ is open source and you can host your own instance for free -->
 
 ![<>](1_img/precios.png)
 
+Versión Gratuita: Adecuada para equipos pequeños. Incluye funciones básicas de gestión de proyectos como la gestión de problemas y ramas y la integración continua, además de funciones básicas de seguridad y soporte comunitario en línea. 5gb de espacio de almacenamiento, 10gb de transferencia mensual, 400 unidades de computación menusales y un límite de 5 usuarios por espacio.
+
+Versión Premium: Adecuado para proyectos de medianos a grandes en entornos empresariales. Añade funciones avanzadas como la gestión de cartera de proyectos, junto con funciones de seguridad y cumplimiento tales como la protección de ramas,  la gestión de vulnerabilidades y amenazas y el análisis de código. Además de soporte técnico especializado. 50gb de espacio de almacenamiento, 100gb de transferencia mensual y 10.000 unidades de computación menusales.
+    
+Versión Ultimate: Adecuado para entornos empresariales de gran escala. Incluye funciones adicionales, como la gestión de operaciones y de valor empresarial, adiciones de seguridad como la gestión de identidades y accesos, de políticas de seguridad y registros de auditoría además de soporte técnico prioritario y asistencia en línea y presencial. 250gb de espacio de almacenamiento, 500gb de transferencia mensual y 50.000 unidades de computación menusales.
+
 ### Extras
 
 ![<>](1_img/addons.png)
