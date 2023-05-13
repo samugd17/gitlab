@@ -147,6 +147,8 @@ Importar directamente de otra herramienta
 
 Autoriza automaticamente con github si tienes la sesion iniciada 
 
+División de proyectos por grupo
+
 Importar proyectos propios, colaborativos y de organización
 
 Import issue and pull request events
