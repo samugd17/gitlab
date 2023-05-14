@@ -111,24 +111,25 @@ is open source and you can host your own instance for free -->
 
 - Versión Gratuita: Adecuada para equipos pequeños. 
 
-Incluye funciones básicas de gestión de proyectos como la gestión de problemas y ramas y la integración continua, además de funciones básicas de seguridad y soporte comunitario en línea. 
+    - Incluye funciones básicas de gestión de proyectos como la gestión de problemas y ramas y la integración continua, además de funciones básicas de seguridad y soporte comunitario en línea. 
 
-5gb de espacio de almacenamiento, 10gb de transferencia mensual, 400 unidades de computación menusales y un límite de 5 usuarios por espacio.
+    - 5gb de espacio de almacenamiento, 10gb de transferencia mensual, 400 unidades de computación menusales y un límite de 5 usuarios por espacio.
 
 - Versión Premium: Adecuado para proyectos de medianos a grandes en entornos empresariales. 
 
-Añade funciones avanzadas como la gestión de cartera de proyectos, mejor personalización de procesos e integración con herramientas de terceros. 
+    - Añade funciones avanzadas como la gestión de cartera de proyectos, mejor personalización de procesos e integración con herramientas de terceros. 
 
-Mejores funciones de seguridad y cumplimiento tales como la autenticación avanzada, protección de ramas, escaneo de vulnerabilidades, amenazas y análisis de código. Además de soporte técnico especializado. 
+    - Mejores funciones de seguridad y cumplimiento tales como la autenticación avanzada, protección de ramas, escaneo de vulnerabilidades, amenazas y análisis de código. Además de soporte técnico especializado. 
 
-50gb de espacio de almacenamiento, 100gb de transferencia mensual y 10.000 unidades de computación menusales.
+    - 50gb de espacio de almacenamiento, 100gb de transferencia mensual y 10.000 unidades de computación menusales.
     
 - Versión Ultimate: Adecuado para entornos empresariales de gran escala. 
 
-Incluye funciones adicionales, como la gestión de operaciones y de valor empresarial, permisos y roles más complejos, herramientas avanzadas de cumplimiento, como auditorías, informes y flujos de trabajo personalizados, además de nuevas integraciones empresariales.
+    - Incluye funciones adicionales, como la gestión de operaciones y de valor empresarial, permisos y roles más complejos, herramientas avanzadas de cumplimiento, como auditorías, informes y flujos de trabajo personalizados, además de nuevas integraciones empresariales.
 
-Adiciones de seguridad y cumplimiento como el escaneo de dependencias y contenedores la gestión de identidades y accesos, políticas de seguridad y registros de auditoría. Además de soporte técnico prioritario y asistencia en línea y presencial. 
-250gb de espacio de almacenamiento, 500gb de transferencia mensual y 50.000 unidades de computación menusales.
+    - Adiciones de seguridad y cumplimiento como el escaneo de dependencias y contenedores la gestión de identidades y accesos, políticas de seguridad y registros de auditoría. Además de soporte técnico prioritario y asistencia en línea y presencial. 
+
+    - 250gb de espacio de almacenamiento, 500gb de transferencia mensual y 50.000 unidades de computación menusales.
 
 ### Extras
 
