@@ -86,8 +86,6 @@ Gitlab es una de las herramientas más reconocidas por ofrecer prácticamente to
 - Registro de contenedores (no es necesario el de docker)
 
 
-
-
 ## Plan de precios
 
 ![<>](1_img/precios.png)
@@ -127,6 +125,26 @@ Gitlab es una de las herramientas más reconocidas por ofrecer prácticamente to
 ## Ejemplo de documentación de proyectos
 
 ## Otras herramientas con las que se integra
+
+Gitlab posee una gran librería de herramientas para su integración, aquí podemos ver algunas de las que conocemos y henos usado:
+
+![<>](1_img/integraciones.png)
+
+### Ejemplo: Jira
+
+![<>](1_img/Jira%20Software%402x-blue.png)
+
+La integración con jira se puede hacer desde dos perspectivas
+
+    - Integración del sistema de Issues:
+        - Crear y ver iissues de Jira directamente desde gitlab
+        - Referenciar issues de Jira por id desde commits y merge requests de GitLab
+        - Crear issues de jira para vulnerabilidades
+
+    - Integración del panel de desarrollos
+        - Incluidas las ramas referenciales, commits y merge requests.
+        - Seguimiento de tiempo en un issue
+        - uso de commit para pasar o cerrar un issue
 
 ## Comparativa con otras herramientas
 
