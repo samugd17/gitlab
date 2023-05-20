@@ -64,7 +64,15 @@ La compañía, GitLab Inc. cuenta con un equipo de 1309 miembros. Es usado por o
 - - - 
 ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (Dev) con las operaciones de tecnología de la información(Ops). Estas operaciones se refieren a las actividades y procesos relacionados con la gestión y el mantenimiento de los sistemas de tecnología de la información en una organización: Gestión de infraestructura, soporte técnico, monitoreo y seguridad..._
 
+<div align="center">
+<img src="img\gitlab.png">
+</div>
+
+<div align="center">
+<img src="img\gitlabcicd.png">
+</div>
 :sound: <a href="https://youtu.be/l5705U8s_nQ?t=369">Profundiza un poco más en Gitlab CI/CD</a>
+
 
 ## Qué ofrece
 
@@ -112,6 +120,22 @@ Actualmente esta tecnología es usada por empresas como Paypal, Spotify o Amazon
 </div>
 
 ## Ejemplo de documentación de proyectos
+## Repositorios
+
+[![Documentación en Gitlab](https://res.cloudinary.com/marcomontalbano/image/upload/v1684604676/video_to_markdown/images/youtube--p8XMvMfqk0o-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/p8XMvMfqk0o "Documentación en Gitlab")
+
+## Wikis
+Si no quieres tener tu documentación en tu repositorio, pero quieres mantenerla en el mismo proyecto que tu código, puedes usar el wiki que GitLab proporciona en cada proyecto GitLab. Cada wiki es un repositorio Git separado, así que puedes crear páginas wiki en la interfaz web, o localmente usando Git. Además, si utilizas grupos de GitLab para gestionar varios proyecto, puedes crear wikis de grupo, en lugar de wikis de proyecto, para asegurarte de que todos los miembros del grupo tienen los permisos de acceso correctos para contribuir.
+
+Los wikis de GitLab soportan Markdown, Rdoc, AsciiDoc y Org para el contenido. Además, aportan diferentes funcionalidades, como puede ser la rápida creación de tablas, menús desplegables e incluso un propio sistema de creación y edición de diagramas.
+
+<div align="center">
+<img src="img\gitlabdoc1.png" width="1000">
+
+<img src="img\gitlabdoc-diagram.png" width="1000">
+
+<img src="img\gitlabdoc3.png" width="1000">
+</div>
 
 ## Otras herramientas con las que se integra
 ## Comparativa con otras herramientas
