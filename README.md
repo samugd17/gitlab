@@ -122,7 +122,7 @@ Actualmente esta tecnología es usada por empresas como Paypal, Spotify o Amazon
 ## Ejemplo de documentación de proyectos
 ## Repositorios
 
-[![Documentación en Gitlab](https://res.cloudinary.com/marcomontalbano/image/upload/v1684604676/video_to_markdown/images/youtube--p8XMvMfqk0o-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/p8XMvMfqk0o "Documentación en Gitlab")
+[![Documentación en Gitlab](https://res.cloudinary.com/marcomontalbano/image/upload/v1684606423/video_to_markdown/images/youtube--w-eQoSPhphw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/w-eQoSPhphw "Documentación en Gitlab")
 
 ## Wikis
 Si no quieres tener tu documentación en tu repositorio, pero quieres mantenerla en el mismo proyecto que tu código, puedes usar el wiki que GitLab proporciona en cada proyecto GitLab. Cada wiki es un repositorio Git separado, así que puedes crear páginas wiki en la interfaz web, o localmente usando Git. Además, si utilizas grupos de GitLab para gestionar varios proyecto, puedes crear wikis de grupo, en lugar de wikis de proyecto, para asegurarte de que todos los miembros del grupo tienen los permisos de acceso correctos para contribuir.
