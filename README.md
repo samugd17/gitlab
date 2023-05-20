@@ -146,16 +146,17 @@ La integración con jira se puede hacer desde dos perspectivas
         - Seguimiento de tiempo en un issue
         - Uso de commits para transición o cierre de un issue (commits inteligentes)
 
-Ejemplo de commits inteligentes:
+### Ejemplo de commits inteligentes:
+
     - HPI-28 : ID generada para el issue
 
 ![<>](1_img/commit_inteligente.png)
 
-    - Transición del issue a la tabla 'In Progress'
+- Transición del issue a la tabla 'In Progress'
 
 ![<>](1_img/commit2.png)
 
-    - Commit usando el ID del issue
+- Commit usando el ID del issue
     
 
 ## Comparativa con otras herramientas
