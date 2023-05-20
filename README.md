@@ -137,7 +137,7 @@ Gitlab posee una gran librería de herramientas para su integración, aquí pode
 La integración con jira se puede hacer desde dos perspectivas
 
     - Integración del sistema de Issues:
-        - Crear y ver iissues de Jira directamente desde gitlab
+        - Crear y ver issues de Jira directamente desde gitlab
         - Referenciar issues de Jira por id desde commits y merge requests de GitLab
         - Crear issues de jira para vulnerabilidades
 
@@ -145,6 +145,12 @@ La integración con jira se puede hacer desde dos perspectivas
         - Incluidas las ramas referenciales, commits y merge requests.
         - Seguimiento de tiempo en un issue
         - uso de commit para pasar o cerrar un issue
+
+Ejemplo de commits inteligentes:
+
+![<>](1_img/commit_inteligente.png)
+    - Transición del issue a la tabla 'In progress'
+    - HPI-28 : id generada para el usuario
 
 ## Comparativa con otras herramientas
 
