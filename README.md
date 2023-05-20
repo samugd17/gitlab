@@ -90,22 +90,22 @@ Actualmente esta tecnología es usada por empresas como Paypal, Spotify o Amazon
 <img src="img\asana1.png" width="1000">
 </div>
 
-### Conecta tus herramientas
+## Conecta tus herramientas
 <div align="center">
 <img src="img\asana2.png" width="1000">
 </div>
 
-### Establezca la dirección de flujo entre sus herramientas
+## Establezca la dirección de flujo entre sus herramientas
 <div align="center">
 <img src="img\asana3.png" width="1000">
 </div>
 
-### Elija las tareas que desea sincronizar
+## Elija las tareas que desea sincronizar
 <div align="center">
 <img src="img\asana4.png" width="1000">
 </div>
 
-### Resultado
+## Resultado
 <div align="left">
 <img src="img\asana8.png" width="1000">
 <img src="img\asana9.png" width="1000">
