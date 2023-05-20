@@ -51,7 +51,7 @@ La Implementación Continua hace referencia al lanzamiento automático de los ca
     - **Objetivo:** No sobrecargar a los equipos de operaciones con procesos manuales que retrasan la distribución de las aplicaciones y aprovechar los beneficios de la distribución continua automatizando la siguiente etapa del proceso.
 
 <div align="center">
-<img src="\img\asana-logo.png">
+<img src="img\gitlab_workflow.png">
 </div>
 
 ## Qué es y dentro de que grupo de las herramientas CI/CD está
