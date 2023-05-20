@@ -50,7 +50,7 @@ La Implementación Continua hace referencia al lanzamiento automático de los ca
 
     - **Objetivo:** No sobrecargar a los equipos de operaciones con procesos manuales que retrasan la distribución de las aplicaciones y aprovechar los beneficios de la distribución continua automatizando la siguiente etapa del proceso.
 <div align="center">
-<img src="https://github.com/samugd17/gitlab/blob/feature_2/img/gitlab_workflow.png">
+<img src="C:\Users\samug\Documents\REPOSITORIOS GITHUB\gitlab\img\asana-logo.png">
 </div>
 
 ## Qué es y dentro de que grupo de las herramientas CI/CD está
@@ -74,6 +74,52 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
 ## Plan de precios
 
 ## Ejemplo de integración con repositorios de código
+Gitlab es una herramienta con una amplia gama de aplicaciones con las que se puede integrar. En este caso, nosotros hemos elegido Asana. Una aplicación web y móvil para la gestión de tareas, que está diseñada para facilitar a las personas y a los equipos la planificación y la gestión de sus proyectos. Cada equipo tiene un espacio de trabajo. Los espacios de trabajo contienen proyectos y los proyectos contienen tareas.
+
+Actualmente esta tecnología es usada por empresas como Paypal, Spotify o Amazon entre otras muchas más.
+
+<div align="center">
+<img src="img\asana-logo.png" width="400">
+</div>
+
+- Paso 1: Loging en Asana.
+- Paso 2: Integración a través de Unito. App que es capaz de crear un flujo de trabajo con integraciones personalizables y de autoservicio, que permiten a todos los miembros del equipo trabajar en la herramienta de su elección sin perderse nada gracias a una sincronización bidireccional automatizada y sin código.
+
+<div align="center">
+<img src="img\asana1.png" width="1000">
+</div>
+
+### Conecta tus herramientas
+<div align="center">
+<img src="img\asana2.png" width="1000">
+</div>
+
+### Establezca la dirección de flujo entre sus herramientas
+<div align="center">
+<img src="img\asana3.png" width="1000">
+</div>
+
+### Elija las tareas que desea sincronizar
+<div align="center">
+<img src="img\asana4.png" width="1000">
+</div>
+
+### Especifica la información y tareas que desea sincronizar
+<div align="center">
+<img src="img\asana5.png" width="1000">
+<img src="img\asana6.png" width="1000">
+</div>
+
+### Lanza el flujo de trabajo
+<div align="center">
+<img src="img\asana7.png" width="1000">
+</div>
+
+### Resultado
+<div align="left">
+<img src="img\asana8.png" width="1000">
+<img src="img\asana9.png" width="1000">
+</div>
 
 ## Ejemplo de documentación de proyectos
 
