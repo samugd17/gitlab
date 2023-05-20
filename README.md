@@ -67,39 +67,28 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
 
 ## ¿Qué ofrece?
 
+Gitlab es una de las herramientas más reconocidas por ofrecer prácticamente todos los servicios que podemos necesitar durante el desarrollo:
+
 - Administración, creación y conexión de repositorios con diferentes aplicaciones e integración con ellas, ofreciendo un ambiente y una plataforma en la que se pueden realizar las diferentes etapas de su ciclo de vida de desarrollo de software (SDLC) y DevOps. 
+
+- Preparar y ser host de nuestro propio servidor con infraestructura personalizada de forma gratuita lo cual además permite trabajar en ellos sin necesidad de estar conectado
+
 - Alojamiento de wikis
+
 - Sistema de seguimiento y detección de errores
 
-<!-- It has git repositories, issue tracking, CI/CD, Wiki, container repository, and more built in in one application, Some people take issue with this because it is heavyweight. Personally I like that I have one tool that I can get support for and that everything is integrated together well. -->
-
-<!-- For me one of the most important features of GitLab is that I can self host it. Self hosting means that it can work on networks that are disconnected from the internet. If setting up your own infrastructure then it is nice to have a smaller set of tools to have to mess with.  -->
-
-<!-- I like being able to adopt a git flow workflow, open merge requests in GitLab and have a CI/CD pipeline run against the merge request before accepting it.  -->
-
-<!-- You can self host gitlab community for free which makes a difference to organizations that lack budgets  -->
-
-<!-- It's probably minor but in gitlab you can create a new branch based on an issue. The UI has the option to do that and it is a nice way to connect an issue with a branch and a pull request. Github doesn't have it but it is heavily requested -->
 
 
-<!-- free private package repository per repo (pypi, npm and others)
+- Posibilidad de crear ramas y pull requests directamente dedicadas a los issues
 
-free docker registry per repo
+- Registro en docker gratuito por repositorio
 
-kubernetes cluster integration with a lot of functionality built in (eg preview apps)
+- Pîpelines para mas de un proyecto
 
-is open source and you can host your own instance for free -->
-
-
-<!-- Lets put it this way gitlab has everything that github has and alot more. I have been using it for years at work. Its a complete solution
-
-    You get git for version control
-
-    An amazing CI/CD solution (so dont need to setup jenkins etc)
+An amazing CI/CD solution (so dont need to setup jenkins etc)
 
     A container Registry ( docker registry is not needed)
 
-    Alot of features like multi project pipelines etc
 
     Self hosted so your code remains under your control These are some of the thing companies really value, and of course for individual users it offer same features -->
 
@@ -146,6 +135,8 @@ is open source and you can host your own instance for free -->
 ## Otras herramientas con las que se integra
 
 ## Comparativa con otras herramientas
+
+
 
  <!-- One of the worst parts of Jenkins for me is also it's main draw... There are plugins for EVERYTHING but they are not guaranteed to be maintained. I know that there is potentially the ability to pay for a commercial Cloudbees support potentially but relying on plugins that may or may not be supported and that may or may not break on an update makes Jenkins a pain sometimes. Also the other issue that I have with it is that so much is done through the UI. I am moving more and more towards tools where everything is in revision control because it is easier to maintain and easier to branch when needed.
 
