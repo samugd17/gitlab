@@ -75,6 +75,8 @@ Gitlab es una de las herramientas más reconocidas por ofrecer prácticamente to
 
 - Alojamiento de wikis
 
+- Repositorios privados gratuitos
+
 - Sistema de seguimiento y detección de errores
 
 - Posibilidad de crear ramas y pull requests directamente dedicadas a los issues
@@ -84,6 +86,8 @@ Gitlab es una de las herramientas más reconocidas por ofrecer prácticamente to
 - Pîpelines para mas de un proyecto
 
 - Registro de contenedores (no es necesario el de docker)
+
+- División de proyectos por grupo
 
 
 ## Plan de precios
@@ -163,23 +167,6 @@ La integración con jira se puede hacer desde dos perspectivas
 
 
 
- <!-- One of the worst parts of Jenkins for me is also it's main draw... There are plugins for EVERYTHING but they are not guaranteed to be maintained. I know that there is potentially the ability to pay for a commercial Cloudbees support potentially but relying on plugins that may or may not be supported and that may or may not break on an update makes Jenkins a pain sometimes. Also the other issue that I have with it is that so much is done through the UI. I am moving more and more towards tools where everything is in revision control because it is easier to maintain and easier to branch when needed.
-
-In terms of a long term strategy I recommend the following:
-
-    Pick tools that have been around for a while and avoid switching tools just because it is trendy. I know tools like GitLab and Artifactory are going to be around for a while.
-
-    Avoid putting too much logic in the CI/CD tool. Rely on scripts where possible because this will make it easier to change CI/CD tools if necessary.
-
-    CI/CD tools with native container support are the way to go because containers are here to stay. You want your build environments containerized and versioned.
-
-    Automate everything. Minimize manual tasks as much as humanely possible. The more manual steps you have the more that can go wrong.
-
-    Embrace everything as code and store it all in revision control. You do not want hand crafted servers or things built by hand in the software tool chain. Ideally in my mind everything should be able to be rebuilt from code from the ground up in an automated way. This is important if something foundational to the tech stack needs to change.
-
-    Have your own artifact managers that proxy the public artifact managers. IE don't use NPM or Docker Hub directly. Use something like Artifactory or Nexus to proxy it. -->
-
-
 ## ¿Por qué escoger la herramienta frente a otras?
 
 ## Referencias
@@ -189,30 +176,4 @@ https://docs.gitlab.com/
 
 </div>
 
-
-<!-- 
-Importar directamente de otra herramienta
-
-Autoriza automaticamente con github si tienes la sesion iniciada 
-
-División de proyectos por grupo
-
-Importar proyectos propios, colaborativos y de organización
-
-División por grupos o usuario
-
-Crear etiquetas de proyecto
-
-Import issue and pull request events
-
-For example, opened or closed, renamed, and labeled or unlabeled. Time required to import these events depends on how many issues or pull requests your project has.
-Use alternative comments import method
-
-The default method can skip some comments in large projects because of limitations of the GitHub API.
-Import Markdown attachments (links)
-
-Import Markdown attachments (links) from repository comments, release posts, issue descriptions, and pull request descriptions. These can include images, text, or binary attachments. If not imported, links in Markdown to attachments break after you remove the attachments from GitHub. 
-
-Prueba Commit
--->
 
