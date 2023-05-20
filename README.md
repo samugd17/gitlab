@@ -77,20 +77,14 @@ Gitlab es una de las herramientas más reconocidas por ofrecer prácticamente to
 
 - Sistema de seguimiento y detección de errores
 
-
-
 - Posibilidad de crear ramas y pull requests directamente dedicadas a los issues
 
 - Registro en docker gratuito por repositorio
 
 - Pîpelines para mas de un proyecto
 
-An amazing CI/CD solution (so dont need to setup jenkins etc)
+- Registro de contenedores (no es necesario el de docker)
 
-    A container Registry ( docker registry is not needed)
-
-
-    Self hosted so your code remains under your control These are some of the thing companies really value, and of course for individual users it offer same features -->
 
 
 
