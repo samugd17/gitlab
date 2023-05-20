@@ -150,14 +150,14 @@ La integración con jira se puede hacer desde dos perspectivas
 
     - HPI-28 : ID generada para el issue
 
+- Transición del issue a la tabla 'In Progress'
+
 ![<>](1_img/commit_inteligente.png)
 
-- Transición del issue a la tabla 'In Progress'
+- Commit usando el ID del issue
 
 ![<>](1_img/commit2.png)
 
-- Commit usando el ID del issue
-    
 
 ## Comparativa con otras herramientas
 
