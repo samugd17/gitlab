@@ -78,11 +78,11 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
 
 ![<>](1_img/1_fuvJn5MgjGfMpOcHfvw_MA.png)
 
-- Uno de los aspectos mas conocidos de GitLab es que se puede usar como herramienta única para todo el ciclo CI/CD, esto no solo supone una mayor comodidad y simplicidad, sino que tambien beneficia mucho en la seguridad, ya que todas las etapas del ciclo DevOps se controlan desde un único entorno. 
+- Uno de los aspectos más conocidos de GitLab es que se puede usar como herramienta única para todo el ciclo CI/CD, esto no solo supone una mayor comodidad y simplicidad, sino que también beneficia mucho en la seguridad, ya que todas las etapas del ciclo DevOps se controlan desde un único entorno. 
 
 - Otro de sus puntos principales es el amplio catálogo de integraciones con aplicaciones externas, ofreciendo un ambiente y una plataforma en la que pueden converger las funcionalidades y puntos fuertes de muchas herramientas. 
 
-- También que se pudeda preparar y ser host de nuestro propio servidor con infraestructura personalizada de forma gratuita lo cual además permite trabajar en ellos sin necesidad de estar conectado
+- También la posibilidad de preparar y ser host de nuestro propio servidor con infraestructura personalizada de forma gratuita lo cual además permite trabajar en ellos sin necesidad de estar conectado
 
 - Otras cualidades también pueden ser:
     - Alojamiento de wikis
@@ -90,7 +90,7 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
     - Sistema de seguimiento y detección de errores
     - Posibilidad de crear ramas y pull requests directamente dedicadas a los issues
     - Registro en docker gratuito por repositorio
-    - Pîpelines para mas de un proyecto
+    - Pipelines para mas de un proyecto
     - Registro de contenedores (no es necesario el de docker)
     - División de proyectos por grupo
 
@@ -213,13 +213,13 @@ La integración con jira se puede hacer desde dos maneras
 
 ![<>](1_img//1%20OLsrVuctE2DO924KoSkNLA.png)
 
-En este caso haremos la comparativa entre GitLab y GitHub, ya que son las herramientas que mas conocemos y tienen un rango similar.
+En este caso haremos la comparativa entre GitLab y GitHub, ya que son las herramientas que más conocemos y tienen un rango similar.
 
-- La primera diferencia que se aprecia es que gitlab es una aplicación de código abierto, mientras que github es propietario y no se puede ve rni modificar.
+- La primera diferencia que se aprecia es que gitlab es una aplicación de código abierto, mientras que github es propietario y no se puede ver ni modificar.
 
 - Mientras que GitHub sigue dependiendo en gran parte de empresas de terceros para la Integración Continua, GitLab se puede usar como herramienta única para todo el ciclo CI/CD, esto no solo supone una mayor comodidad y simplicidad, sino que tambien beneficia mucho en la seguridad, ya que todas las etapas del ciclo DevOps se controlan desde un único entorno. 
 
-- En general todo lo relacionado con las herramientas CI/DC está mejor planteado en GitLab ya que estos llevan años perfeccionandolas mientras que GitHub las ha implementado hace relativamente poco tiempo.
+- En general todo lo relacionado con las herramientas CI/DC está mejor planteado en GitLab ya que estos llevan años perfeccionándolas mientras que GitHub las ha implementado hace relativamente poco tiempo.
 
 - A diferencia de GitHub, GitLab no está planteado como una red social, por lo que muchas adiciones como los perfiles de usuario, starrings, etc... no se van a encontrar en este. 
 
