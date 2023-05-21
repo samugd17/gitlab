@@ -217,11 +217,13 @@ En este caso haremos la comparativa entre GitLab y GitHub, ya que son las herram
 
 - La primera diferencia que se aprecia es que gitlab es una aplicación de código abierto, mientras que github es propietario y no se puede ver ni modificar.
 
-- Mientras que GitHub sigue dependiendo en gran parte de empresas de terceros para la Integración Continua, GitLab se puede usar como herramienta única para todo el ciclo CI/CD, esto no solo supone una mayor comodidad y simplicidad, sino que tambien beneficia mucho en la seguridad, ya que todas las etapas del ciclo DevOps se controlan desde un único entorno. 
+- GitHub sigue dependiendo en gran parte de empresas de terceros para la Integración Continua sin embargo, GitLab se puede usar como herramienta única para todo el ciclo CI/CD, esto no solo supone una mayor comodidad y simplicidad, sino que tambien beneficia mucho en la seguridad, ya que todas las etapas del ciclo DevOps se controlan desde un único entorno. 
 
-- En general todo lo relacionado con las herramientas CI/DC está mejor planteado en GitLab ya que estos llevan años perfeccionandolas mientras que GitHub las ha implementado hace relativamente poco tiempo.
+- En general todo lo relacionado con las herramientas CI/DC está mejor planteado en GitLab ya que estos llevan años perfeccionando estas, mientras que GitHub las ha implementado hace relativamente poco tiempo.
 
 - A diferencia de GitHub, GitLab no está planteado como una red social, por lo que muchas adiciones como los perfiles de usuario, starrings, etc... no se van a encontrar en este. 
+
+- Gitlab también da la opción de estableer permisos según las funciones
 
 - GitLab permite asociar runners a múltiples repositorios con mayor facilidad.
 
@@ -234,6 +236,8 @@ https://docs.gitlab.com/
 
 https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow#browse-a-repository-without-cloning
 
+https://keepcoding.io/blog/que-es-gitlab-y-como-se-puede-usar
+bash: https://keepcoding.io/blog/que-es-gitlab-y-como-se-puede-usar
 </div>
 
 
