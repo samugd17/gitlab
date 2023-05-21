@@ -223,7 +223,7 @@ En este caso haremos la comparativa entre GitLab y GitHub, ya que son las herram
 
 - A diferencia de GitHub, GitLab no está planteado como una red social, por lo que muchas adiciones como los perfiles de usuario, starrings, etc... no se van a encontrar en este. 
 
-- Gitlab también da la opción de estableer permisos según las funciones
+- Gitlab también da la opción de establecer y modificar los permisos de los usuarios según sus funciones
 
 - GitLab permite asociar runners a múltiples repositorios con mayor facilidad.
 
@@ -237,7 +237,7 @@ https://docs.gitlab.com/
 https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow#browse-a-repository-without-cloning
 
 https://keepcoding.io/blog/que-es-gitlab-y-como-se-puede-usar
-bash: https://keepcoding.io/blog/que-es-gitlab-y-como-se-puede-usar
+
 </div>
 
 
