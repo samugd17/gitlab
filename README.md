@@ -1,11 +1,11 @@
 <div align="justify">
 
 <div align="center">
-<img src="https://github.com/samugd17/gitlab/blob/feature_2/img/gitlab-logo-100.png">
+<img src="img\gitlab-logo-100.png">
 </div>
 
 ## ÍNDICE
-- [¿Qué son las herramientas CI/DC?](#qué-son-las-herramientas-cicd)
+- [¿Qué son las herramientas CI/CD?](#qué-son-las-herramientas-cicd)
 
 - [¿Qué es y dentro de que grupo de las herramientas CI/DC está?](#qué-es-y-dentro-de-que-grupo-de-las-herramientas-cicd-está)
 
@@ -73,12 +73,14 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
 <div align="center">
 <img src="img\gitlabcicd.png">
 </div>
-:sound: <a href="https://youtu.be/l5705U8s_nQ?t=369">Profundiza un poco más en Gitlab CI/CD</a>
 
+:sound: <a href="https://youtu.be/l5705U8s_nQ?t=369">Profundiza un poco más en Gitlab CI/CD</a>
 
 ## Qué ofrece
 
-![<>](1_img/1_fuvJn5MgjGfMpOcHfvw_MA.png)
+<div align="center">
+<img src="img\1_fuvJn5MgjGfMpOcHfvw_MA.png">
+</div>
 
 - Uno de los aspectos más conocidos de GitLab es que se puede usar como herramienta única para todo el ciclo CI/CD, esto no solo supone una mayor comodidad y simplicidad, sino que también beneficia mucho en la seguridad, ya que todas las etapas del ciclo DevOps se controlan desde un único entorno. 
 
@@ -99,7 +101,10 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
 
 ## Plan de precios
 
-![<>](1_img/precios.png)
+<div align="center">
+<img src="img\precios.png">
+</div>
+
 
 - Versión Gratuita: Adecuada para equipos pequeños. 
 
@@ -124,12 +129,16 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
     - 250gb de espacio de almacenamiento, 500gb de transferencia mensual y 50.000 unidades de computación mensuales.
 
 ### Extras
-
-![<>](1_img/addons.png)
+<div align="center">
+<img src="img\addons.png">
+</div>
 
 ### Comparativa
 
-![<>](1_img/comparativa_precios.png)
+<div align="center">
+<img src="img\comparativa_precios.png">
+</div>
+
 
 ## Ejemplo de integración con repositorios de código
 Gitlab es una herramienta con una amplia gama de aplicaciones con las que se puede integrar. En este caso, nosotros hemos elegido Asana. Una aplicación web y móvil para la gestión de tareas, que está diseñada para facilitar a las personas y a los equipos la planificación y la gestión de sus proyectos. Cada equipo tiene un espacio de trabajo. Los espacios de trabajo contienen proyectos y los proyectos contienen tareas.
@@ -163,7 +172,7 @@ Actualmente esta tecnología es usada por empresas como Paypal, Spotify o Amazon
 </div>
 
 ## Resultado
-<div align="left">
+<div align="center">
 <img src="img\asana8.png" width="1000">
 <img src="img\asana9.png" width="1000">
 </div>
@@ -192,9 +201,11 @@ Los wikis de GitLab soportan Markdown, Rdoc, AsciiDoc y Org para el contenido. A
 
 ## Otras herramientas con las que se integra
 
-Gitlab posee una gran librería de herramientas para su integración, aquí podemos ver algunas de las que conocemos y henos visto:
+Gitlab posee una gran librería de herramientas para su integración, aquí podemos ver algunas de las que conocemos y hemos visto:
 
-![<>](1_img/integraciones.png)
+<div align="center">
+<img src="img\integraciones.png" width="1000">
+</div>
 
 ### Ejemplo: Jira
 
@@ -213,7 +224,9 @@ La integración con jira se puede hacer desde dos maneras
 
 ## Comparativa con otras herramientas
 
-![<>](1_img//1%20OLsrVuctE2DO924KoSkNLA.png)
+<div align="center">
+<img src="img\\1%20OLsrVuctE2DO924KoSkNLA.png" width="1000">
+</div>
 
 En este caso haremos la comparativa entre GitLab y GitHub, ya que son las herramientas que más conocemos y tienen un rango similar.
 
@@ -221,7 +234,7 @@ En este caso haremos la comparativa entre GitLab y GitHub, ya que son las herram
 
 - Mientras que GitHub sigue dependiendo en gran parte de empresas de terceros para la Integración Continua, GitLab se puede usar como herramienta única para todo el ciclo CI/CD, esto no solo supone una mayor comodidad y simplicidad, sino que tambien beneficia mucho en la seguridad, ya que todas las etapas del ciclo DevOps se controlan desde un único entorno. 
 
-- En general todo lo relacionado con las herramientas CI/DC está mejor planteado en GitLab ya que estos llevan años perfeccionándolas mientras que GitHub las ha implementado hace relativamente poco tiempo.
+- En general todo lo relacionado con las herramientas CI/CD está mejor planteado en GitLab ya que estos llevan años perfeccionándolas mientras que GitHub las ha implementado hace relativamente poco tiempo.
 
 - A diferencia de GitHub, GitLab no está planteado como una red social, por lo que muchas adiciones como los perfiles de usuario, starrings, etc... no se van a encontrar en este. 
 
