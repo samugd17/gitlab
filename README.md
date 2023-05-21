@@ -67,6 +67,8 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
 
 ## ¿Qué ofrece?
 
+![<>](1_img/1_fuvJn5MgjGfMpOcHfvw_MA.png)
+
 - Uno de los aspectos mas conocidos de GitLab es que se puede usar como herramienta única para todo el ciclo CI/CD, esto no solo supone una mayor comodidad y simplicidad, sino que tambien beneficia mucho en la seguridad, ya que todas las etapas del ciclo DevOps se controlan desde un único entorno. 
 
 - Otro de sus puntos principales es el amplio catálogo de integraciones con aplicaciones externas, ofreciendo un ambiente y una plataforma en la que pueden converger las funcionalidades y puntos fuertes de muchas herramientas. 
@@ -130,9 +132,7 @@ Gitlab posee una gran librería de herramientas para su integración, aquí pode
 
 ### Ejemplo: Jira
 
-![<>](1_img/Jira%20Software%402x-blue.png)
-
-La integración con jira se puede hacer desde dos perspectivas
+La integración con jira se puede hacer desde dos maneras
 
 - Integración del sistema de Issues:
     - Crear y ver issues de Jira directamente desde gitlab
@@ -144,28 +144,22 @@ La integración con jira se puede hacer desde dos perspectivas
     - Seguimiento de tiempo en un issue
     - Uso de commits para transición o cierre de un issue (commits inteligentes)
 
-### Ejemplo de commits inteligentes:
-
-    - HPI-28 : ID generada para el issue
-
-- Transición del issue a la tabla 'In Progress'
-
-![<>](1_img/commit_inteligente.png)
-
-- Commit usando el ID del issue
-
-![<>](1_img/commit2.png)
-
 
 ## Comparativa con otras herramientas
+
+![<>](1_img//1%20OLsrVuctE2DO924KoSkNLA.png)
 
 En este caso haremos la comparativa entre GitLab y GitHub, ya que son las herramientas que mas conocemos y tienen un rango similar.
 
 - La primera diferencia que se aprecia es que gitlab es una aplicación de código abierto, mientras que github es propietario y no se puede ve rni modificar.
 
+- Mientras que GitHub sigue dependiendo en gran parte de empresas de terceros para la Integración Continua, GitLab se puede usar como herramienta única para todo el ciclo CI/CD, esto no solo supone una mayor comodidad y simplicidad, sino que tambien beneficia mucho en la seguridad, ya que todas las etapas del ciclo DevOps se controlan desde un único entorno. 
+
+- En general todo lo relacionado con las herramientas CI/DC está mejor planteado en GitLab ya que estos llevan años perfeccionandolas mientras que GitHub las ha implementado hace relativamente poco tiempo.
+
 - A diferencia de GitHub, GitLab no está planteado como una red social, por lo que muchas adiciones como los perfiles de usuario, starrings, etc... no se van a encontrar en este. 
 
-- Mientras que GitHub sigue dependiendo en gran parte de empresas de terceros para la Integración Continua, GitLab se puede usar como herramienta única para todo el ciclo CI/CD, esto no solo supone una mayor comodidad y simplicidad, sino que tambien beneficia mucho en la seguridad, ya que todas las etapas del ciclo DevOps se controlan desde un único entorno. 
+- GitLab permite asociar runners a múltiples repositorios con mayor facilidad.
 
 ## ¿Por qué escoger la herramienta frente a otras?
 
