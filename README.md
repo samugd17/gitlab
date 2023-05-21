@@ -248,23 +248,23 @@ En este caso haremos la comparativa entre GitLab y GitHub, ya que son las herram
 <img src="img\g2results.png" width="1000">
 </div>
 
-### Aplicación única:
-GitLab reúne todas las funciones de DevOps en una sola aplicación con un almacén de datos unificado para que todo esté en el mismo sitio.
+- ### Aplicación única:
+    GitLab reúne todas las funciones de DevOps en una sola aplicación con un almacén de datos unificado para que todo esté en el mismo sitio.
 
-### Integración múltiple:
-Gitlab posee una gran adaptabilidad para integrarse con multitud de herramientas de cualquier tipo.
+- ### Integración múltiple:
+    Gitlab posee una gran adaptabilidad para integrarse con multitud de herramientas de cualquier tipo.
 
-### Documentación:
-Cualquier problema, duda o forma de proceder puede ser solucionada por la extensa pero a la vez accesible documentación presente en Gitlab.
+- ### Documentación:
+    Cualquier problema, duda o forma de proceder puede ser solucionada por la extensa pero a la vez accesible documentación presente en Gitlab.
 
-### Automatización:
-Las herramientas de automatización de GitLab son más fiables y tienen más funciones, lo que ayuda a eliminar la carga cognitiva y el trabajo pesado innecesario.
+- ### Automatización:
+    Las herramientas de automatización de GitLab son más fiables y tienen más funciones, lo que ayuda a eliminar la carga cognitiva y el trabajo pesado innecesario.
 
-### Seguridad integrada, no añadida:
-Las funciones de seguridad de GitLab -como DAST, pruebas fuzz, escaneo de contenedores y detección de API- están integradas de principio a fin.
+- ### Seguridad integrada, no añadida:
+    Las funciones de seguridad de GitLab -como DAST, pruebas fuzz, escaneo de contenedores y detección de API- están integradas de principio a fin.
 
-### Sin ataduras a la nube:
-GitLab no está vinculado comercialmente a un único proveedor de servicios en la nube, lo que elimina el riesgo de dependencia del proveedor.
+- ### Sin ataduras a la nube:
+    GitLab no está vinculado comercialmente a un único proveedor de servicios en la nube, lo que elimina el riesgo de dependencia del proveedor.
 
 :money_with_wings: :chart_with_upwards_trend: <a href="https://about.gitlab.com/calculator/roi/?calculator=time">Calculadora ahorro de Gitlab</a>
 
