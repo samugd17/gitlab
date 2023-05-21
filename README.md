@@ -76,11 +76,58 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
 
 ## Qué ofrece
 
-- Administración, creación y conexión de repositorios con diferentes aplicaciones e integración con ellas, ofreciendo un ambiente y una plataforma en la que se pueden realizar las diferentes etapas de su ciclo de vida de desarrollo de software (SDLC) y DevOps. 
-- Alojamiento de wikis
-- Sistema de seguimiento y detección de errores
+![<>](1_img/1_fuvJn5MgjGfMpOcHfvw_MA.png)
+
+- Uno de los aspectos mas conocidos de GitLab es que se puede usar como herramienta única para todo el ciclo CI/CD, esto no solo supone una mayor comodidad y simplicidad, sino que tambien beneficia mucho en la seguridad, ya que todas las etapas del ciclo DevOps se controlan desde un único entorno. 
+
+- Otro de sus puntos principales es el amplio catálogo de integraciones con aplicaciones externas, ofreciendo un ambiente y una plataforma en la que pueden converger las funcionalidades y puntos fuertes de muchas herramientas. 
+
+- También que se pudeda preparar y ser host de nuestro propio servidor con infraestructura personalizada de forma gratuita lo cual además permite trabajar en ellos sin necesidad de estar conectado
+
+- Otras cualidades también pueden ser:
+    - Alojamiento de wikis
+    - Repositorios privados gratuitos
+    - Sistema de seguimiento y detección de errores
+    - Posibilidad de crear ramas y pull requests directamente dedicadas a los issues
+    - Registro en docker gratuito por repositorio
+    - Pîpelines para mas de un proyecto
+    - Registro de contenedores (no es necesario el de docker)
+    - División de proyectos por grupo
+
 
 ## Plan de precios
+
+![<>](1_img/precios.png)
+
+- Versión Gratuita: Adecuada para equipos pequeños. 
+
+    - Incluye funciones básicas de gestión de proyectos como la gestión de problemas y ramas y la integración continua, además de funciones básicas de seguridad y soporte comunitario en línea. 
+
+    - 5gb de espacio de almacenamiento, 10gb de transferencia mensual, 400 unidades de computación mensuales y un límite de 5 usuarios por espacio.
+
+- Versión Premium: Adecuado para proyectos de medianos a grandes en entornos empresariales. 
+
+    - Añade funciones avanzadas como la gestión de cartera de proyectos, mejor personalización de procesos e integración con herramientas de terceros. 
+
+    - Mejores funciones de seguridad y cumplimiento tales como la administración avanzada de usuarios, gestión avanzada de permisos y accesos de los usuarios, lo que implica mejores políticas de seguridad, características avanzadas de CI/CD, escaneo de vulnerabilidades, mayor eficiencia en el análisis de código. Además de soporte técnico especializado. 
+
+    - 50gb de espacio de almacenamiento, 100gb de transferencia mensual y 10.000 unidades de computación mensuales.
+    
+- Versión Ultimate: Adecuado para entornos empresariales de gran escala. 
+
+    - Incluye agrupación de proyectos para mejor administración,  gestión de operaciones y de valor empresarial, permisos y roles más complejos, herramientas avanzadas de cumplimiento, como auditorías, informes y flujos de trabajo personalizados, además de nuevas integraciones empresariales.
+
+    - Adiciones de seguridad y cumplimiento como el escaneo de dependencias y contenedores, detección de vulnerabilidades en tiempo real, gestión de identidades y accesos, políticas de seguridad y registros de auditoría. Además de soporte técnico prioritario y asistencia en línea y presencial. 
+
+    - 250gb de espacio de almacenamiento, 500gb de transferencia mensual y 50.000 unidades de computación mensuales.
+
+### Extras
+
+![<>](1_img/addons.png)
+
+### Comparativa
+
+![<>](1_img/comparativa_precios.png)
 
 ## Ejemplo de integración con repositorios de código
 Gitlab es una herramienta con una amplia gama de aplicaciones con las que se puede integrar. En este caso, nosotros hemos elegido Asana. Una aplicación web y móvil para la gestión de tareas, que está diseñada para facilitar a las personas y a los equipos la planificación y la gestión de sus proyectos. Cada equipo tiene un espacio de trabajo. Los espacios de trabajo contienen proyectos y los proyectos contienen tareas.
@@ -142,8 +189,43 @@ Los wikis de GitLab soportan Markdown, Rdoc, AsciiDoc y Org para el contenido. A
 </div>
 
 ## Otras herramientas con las que se integra
+
+Gitlab posee una gran librería de herramientas para su integración, aquí podemos ver algunas de las que conocemos y henos visto:
+
+![<>](1_img/integraciones.png)
+
+### Ejemplo: Jira
+
+La integración con jira se puede hacer desde dos maneras
+
+- Integración del sistema de Issues:
+    - Crear y ver issues de Jira directamente desde gitlab
+    - Referenciar issues de Jira por id desde commits y merge requests de GitLab
+    - Crear issues de jira para vulnerabilidades
+
+- Integración del panel de desarrollos
+    - Incluidas las ramas referenciales, commits y merge requests.
+    - Seguimiento de tiempo en un issue
+    - Uso de commits para transición o cierre de un issue (commits inteligentes)
+
+
 ## Comparativa con otras herramientas
-## Por qué escoger la herramienta frente a otras
+
+![<>](1_img//1%20OLsrVuctE2DO924KoSkNLA.png)
+
+En este caso haremos la comparativa entre GitLab y GitHub, ya que son las herramientas que mas conocemos y tienen un rango similar.
+
+- La primera diferencia que se aprecia es que gitlab es una aplicación de código abierto, mientras que github es propietario y no se puede ve rni modificar.
+
+- Mientras que GitHub sigue dependiendo en gran parte de empresas de terceros para la Integración Continua, GitLab se puede usar como herramienta única para todo el ciclo CI/CD, esto no solo supone una mayor comodidad y simplicidad, sino que tambien beneficia mucho en la seguridad, ya que todas las etapas del ciclo DevOps se controlan desde un único entorno. 
+
+- En general todo lo relacionado con las herramientas CI/DC está mejor planteado en GitLab ya que estos llevan años perfeccionandolas mientras que GitHub las ha implementado hace relativamente poco tiempo.
+
+- A diferencia de GitHub, GitLab no está planteado como una red social, por lo que muchas adiciones como los perfiles de usuario, starrings, etc... no se van a encontrar en este. 
+
+- GitLab permite asociar runners a múltiples repositorios con mayor facilidad.
+
+## ¿Por qué escoger la herramienta frente a otras?
 
 ## Referencias
 https://www.redhat.com/es/topics/devops/what-is-ci-cd
@@ -153,3 +235,5 @@ https://docs.gitlab.com/
 https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow#browse-a-repository-without-cloning
 
 </div>
+
+
