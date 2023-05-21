@@ -123,7 +123,9 @@ Actualmente esta tecnología es usada por empresas como Paypal, Spotify o Amazon
 ## Repositorios
 
 <div align="center">
+
 [![Documentación en Gitlab](https://res.cloudinary.com/marcomontalbano/image/upload/v1684606423/video_to_markdown/images/youtube--w-eQoSPhphw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/w-eQoSPhphw "Documentación en Gitlab")
+
 </div>
 
 ## Wikis
