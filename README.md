@@ -67,27 +67,21 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
 
 ## ¿Qué ofrece?
 
-Gitlab es una de las herramientas más reconocidas por ofrecer prácticamente todos los servicios que podemos necesitar durante el desarrollo:
+- Uno de los aspectos mas conocidos de GitLab es que se puede usar como herramienta única para todo el ciclo CI/CD, esto no solo supone una mayor comodidad y simplicidad, sino que tambien beneficia mucho en la seguridad, ya que todas las etapas del ciclo DevOps se controlan desde un único entorno. 
 
-- Administración, creación y conexión de repositorios con diferentes aplicaciones e integración con ellas, ofreciendo un ambiente y una plataforma en la que se pueden realizar las diferentes etapas de su ciclo de vida de desarrollo de software (SDLC) y DevOps. 
+- Otro de sus puntos principales es el amplio catálogo de integraciones con aplicaciones externas, ofreciendo un ambiente y una plataforma en la que pueden converger las funcionalidades y puntos fuertes de muchas herramientas. 
 
-- Preparar y ser host de nuestro propio servidor con infraestructura personalizada de forma gratuita lo cual además permite trabajar en ellos sin necesidad de estar conectado
+- También que se pudeda preparar y ser host de nuestro propio servidor con infraestructura personalizada de forma gratuita lo cual además permite trabajar en ellos sin necesidad de estar conectado
 
-- Alojamiento de wikis
-
-- Repositorios privados gratuitos
-
-- Sistema de seguimiento y detección de errores
-
-- Posibilidad de crear ramas y pull requests directamente dedicadas a los issues
-
-- Registro en docker gratuito por repositorio
-
-- Pîpelines para mas de un proyecto
-
-- Registro de contenedores (no es necesario el de docker)
-
-- División de proyectos por grupo
+- Otras cualidades también pueden ser:
+    - Alojamiento de wikis
+    - Repositorios privados gratuitos
+    - Sistema de seguimiento y detección de errores
+    - Posibilidad de crear ramas y pull requests directamente dedicadas a los issues
+    - Registro en docker gratuito por repositorio
+    - Pîpelines para mas de un proyecto
+    - Registro de contenedores (no es necesario el de docker)
+    - División de proyectos por grupo
 
 
 ## Plan de precios
@@ -104,15 +98,15 @@ Gitlab es una de las herramientas más reconocidas por ofrecer prácticamente to
 
     - Añade funciones avanzadas como la gestión de cartera de proyectos, mejor personalización de procesos e integración con herramientas de terceros. 
 
-    - Mejores funciones de seguridad y cumplimiento tales como la autenticación avanzada, protección de ramas, escaneo de vulnerabilidades, amenazas y análisis de código. Además de soporte técnico especializado. 
+    - Mejores funciones de seguridad y cumplimiento tales como la administración avanzada de usuarios, gestión avanzada de permisos y accesos de los usuarios, lo que implica mejores políticas de seguridad, características avanzadas de CI/CD, escaneo de vulnerabilidades, mayor eficiencia en el análisis de código. Además de soporte técnico especializado. 
 
     - 50gb de espacio de almacenamiento, 100gb de transferencia mensual y 10.000 unidades de computación mensuales.
     
 - Versión Ultimate: Adecuado para entornos empresariales de gran escala. 
 
-    - Incluye funciones adicionales, como la gestión de operaciones y de valor empresarial, permisos y roles más complejos, herramientas avanzadas de cumplimiento, como auditorías, informes y flujos de trabajo personalizados, además de nuevas integraciones empresariales.
+    - Incluye agrupación de proyectos para mejor administración,  gestión de operaciones y de valor empresarial, permisos y roles más complejos, herramientas avanzadas de cumplimiento, como auditorías, informes y flujos de trabajo personalizados, además de nuevas integraciones empresariales.
 
-    - Adiciones de seguridad y cumplimiento como el escaneo de dependencias y contenedores la gestión de identidades y accesos, políticas de seguridad y registros de auditoría. Además de soporte técnico prioritario y asistencia en línea y presencial. 
+    - Adiciones de seguridad y cumplimiento como el escaneo de dependencias y contenedores, detección de vulnerabilidades en tiempo real, gestión de identidades y accesos, políticas de seguridad y registros de auditoría. Además de soporte técnico prioritario y asistencia en línea y presencial. 
 
     - 250gb de espacio de almacenamiento, 500gb de transferencia mensual y 50.000 unidades de computación mensuales.
 
@@ -130,7 +124,7 @@ Gitlab es una de las herramientas más reconocidas por ofrecer prácticamente to
 
 ## Otras herramientas con las que se integra
 
-Gitlab posee una gran librería de herramientas para su integración, aquí podemos ver algunas de las que conocemos y henos usado:
+Gitlab posee una gran librería de herramientas para su integración, aquí podemos ver algunas de las que conocemos y henos visto:
 
 ![<>](1_img/integraciones.png)
 
