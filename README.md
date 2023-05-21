@@ -165,7 +165,13 @@ La integración con jira se puede hacer desde dos perspectivas
 
 ## Comparativa con otras herramientas
 
+En este caso haremos la comparativa entre GitLab y GitHub, ya que son las herramientas que mas conocemos y tienen un rango similar.
 
+- La primera diferencia que se aprecia es que gitlab es una aplicación de código abierto, mientras que github es propietario y no se puede ve rni modificar.
+
+- A diferencia de GitHub, GitLab no está planteado como una red social, por lo que muchas adiciones como los perfiles de usuario, starrings, etc... no se van a encontrar en este. 
+
+- Mientras que GitHub sigue dependiendo en gran parte de empresas de terceros para la Integración Continua, GitLab se puede usar como herramienta única para todo el ciclo CI/CD, esto no solo supone una mayor comodidad y simplicidad, sino que tambien beneficia mucho en la seguridad, ya que todas las etapas del ciclo DevOps se controlan desde un único entorno. 
 
 ## ¿Por qué escoger la herramienta frente a otras?
 
