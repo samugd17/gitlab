@@ -266,7 +266,7 @@ En este caso haremos la comparativa entre GitLab y GitHub, ya que son las herram
 - ### Sin ataduras a la nube:
     GitLab no está vinculado comercialmente a un único proveedor de servicios en la nube, lo que elimina el riesgo de dependencia del proveedor.
 
-:money_with_wings: :chart_with_upwards_trend: <a href="https://about.gitlab.com/calculator/roi/?calculator=time">Calculadora ahorro de Gitlab</a>
+:money_with_wings::chart_with_upwards_trend: <a href="https://about.gitlab.com/calculator/roi/?calculator=time">Calculadora ahorro de Gitlab</a>
 
 [![Gitlab](https://res.cloudinary.com/marcomontalbano/image/upload/v1684695824/video_to_markdown/images/vimeo--799236905-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://vimeo.com/799236905 "Gitlab")
 
