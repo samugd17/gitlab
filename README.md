@@ -139,6 +139,12 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
 <img src="img\comparativa_precios.png">
 </div>
 
+### Usuarios
+
+<div align="center">
+<img src="img\compañías.png">
+</div>
+
 
 ## Ejemplo de integración con repositorios de código
 Gitlab es una herramienta con una amplia gama de aplicaciones con las que se puede integrar. En este caso, nosotros hemos elegido Asana. Una aplicación web y móvil para la gestión de tareas, que está diseñada para facilitar a las personas y a los equipos la planificación y la gestión de sus proyectos. Cada equipo tiene un espacio de trabajo. Los espacios de trabajo contienen proyectos y los proyectos contienen tareas.
