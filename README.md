@@ -110,6 +110,9 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
 <img src="img\n3.png">
 </div>
 
+<div align="center">
+<img src="img\n4.png">
+</div>
 
 ## Plan de precios
 
@@ -223,6 +226,10 @@ Gitlab posee una gran librería de herramientas para su integración, aquí pode
 
 <div align="center">
 <img src="img\integraciones.png" width="1000">
+</div>
+
+<div align="center">
+<img src="img\int2.png">
 </div>
 
 ### Ejemplo: Jira
