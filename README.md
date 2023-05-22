@@ -70,10 +70,6 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
 <img src="img\gitlab.png">
 </div>
 
-<div align="center">
-<img src="img\gitlabcicd.png">
-</div>
-
 :sound: <a href="https://youtu.be/l5705U8s_nQ?t=369">Profundiza un poco más en Gitlab CI/CD</a>
 
 ## Qué ofrece
@@ -97,6 +93,10 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
     - Pipelines para mas de un proyecto
     - Registro de contenedores (no es necesario el de docker)
     - División de proyectos por grupo
+
+<div align="center">
+<img src="img\gitlabcicd.png">
+</div>
 
 <div align="center">
 <img src="img\n1.png">
