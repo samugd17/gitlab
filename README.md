@@ -98,6 +98,18 @@ ___*DevOps:__ Es una metodología que busca integrar el desarrollo de software (
     - Registro de contenedores (no es necesario el de docker)
     - División de proyectos por grupo
 
+<div align="center">
+<img src="img\n1.png">
+</div>
+
+<div align="center">
+<img src="img\n2.png">
+</div>
+
+<div align="center">
+<img src="img\n3.png">
+</div>
+
 
 ## Plan de precios
 
